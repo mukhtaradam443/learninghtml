@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkblue;
+    font-family: 'open sans',sans-serif;
+}
+
+.container{
+    width: 80%;
+    background-color: white;
+    border-radius: 8px;
+    margin: 30px auto;
+    padding: 15px 30px 30px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo{
+    width: 100px;
+}
+
+.menu{
+    text-align: left;
+
+
+}
+
+.menu{
+    justify-items: left;
+    padding: 10px;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    
+}
+
+.menu ul{
+    list-style: none;
+    display: flex;
+    background-color: black;
+}
+
+.menu i{
+   justify-items: right; 
+}
+
+.menu ul li{
+    margin-right: 20px;
+    
+
+}
+.con{
+    display: flex;
+    gap: 15px;
+    width: 10%;
+    color: blue;
+    
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contentleft{
+    align-items: center;
+}
+
+.image{
+    padding: 20px 20px;
+}
+
+.headericons{
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.icon{
+    justify-content: space-between;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+
+.icon i{
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+
+}
+
+.content-right h2{
+    text-transform: capitalize;
+    margin: 10px 10px;
+}
+
+.content-right h3{
+    margin:10px 10px;
+
+}
+
+.ratings{
+    margin: 10px 10px;
+    justify-content: space-around;
+}
+
+.color{
+    margin: 10px 10px;
+}
+
+.selects{
+    margin: 10px 10px;
+}
+
+.qty{
+    margin: 10px 10px;
+    
+    
+}
+
+.select{
+    padding: 30px 30px;
+}
+
+.qty{
+    margin: 10px;
+}

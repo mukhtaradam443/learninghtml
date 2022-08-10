@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    border: 5px solid blue;
+    padding: 50;
+    background-color: white;
+    margin: 50px auto;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: 100;
+    font-weight: bold;
+}
+
+.header{
+    display: flex;
+}
+
+
+.logo img{
+    width: 150px;
+    color: red;
+    margin: 10px 20px;
+}
+
+.address p{
+    padding: 10px;
+    margin: 10px 20px;
+}
+
+.phones{
+    margin: 20px 10px;
+    
+}
+
+.passport{
+    width: 30%;
+    margin: 10px 10px;/* height: 90px; */
+    border: 3px solid blue;
+
+}
+
+.passport p{
+    align-content: center;
+    text-align: center;
+}
+
+.
+
+.phones p i{
+    
+
+}
